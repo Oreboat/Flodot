@@ -1,0 +1,9 @@
+[submodule "extern/godot-cpp"]
+	path = extern/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
+[submodule "flecs"]
+	path = flecs
+	url = https://github.com/SanderMertens/flecs
+[submodule "extern/flecs"]
+	path = extern/flecs
+	url = https://github.com/SanderMertens/flecs
